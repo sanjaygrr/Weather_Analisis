@@ -22,6 +22,3 @@ Para explorar visualizaciones interactivas del análisis, visita el siguiente en
 
 Además, el análisis se puede ver e interactuar directamente a través del siguiente enlace de Google Colab:
 [Notebook en Google Colab](https://drive.google.com/file/d/14aGTNe9zYAAkvVhZ8Mq5OkMrqdOS92Qw/view?usp=sharing)
-
-## ¿Cómo Contribuir? 🤝
-Para contribuir a este proyecto, sigue las instrucciones estándar de contribución en GitHub o contacta al integrante del proyecto.
